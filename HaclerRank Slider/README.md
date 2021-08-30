@@ -1,4 +1,5 @@
-# React: Slideshow App
+
+# React Assessment 1 : Slideshow App
 
 ## Environment 
 
